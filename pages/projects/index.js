@@ -9,8 +9,8 @@ export default function Projects() {
             </h1>
             <ul>
                 <li>
-                    <Link href="/projects/orizon">
-                        Orizon Access Control
+                    <Link href="/projects/project1">
+                        Project 1
                     </Link>
                 </li>
                 <li>Project 2</li>

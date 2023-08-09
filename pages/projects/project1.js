@@ -1,11 +1,11 @@
 import { Layout, ProjectsLayout } from "../../components/layouts";
 
-export default function Orizon() {
+export default function Project1() {
     return (
         <Layout>
             <ProjectsLayout>
                 <h1>
-                    Orizon Access Control
+                    Project 1
                 </h1>
                 <p>
                     Description here.
